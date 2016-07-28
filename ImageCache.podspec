@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 Imagecache pod is build for cacheing the images to avoid downloading images multiple times from souce URL. It is usefully to speedup you application and reduce data usages of device.
                    DESC
 
-  s.homepage     = "http://EXAMPLE/ImageCache"
+  s.homepage     = "https://github.com/khetaram/ImageCache/tree/master/ImageCache"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
